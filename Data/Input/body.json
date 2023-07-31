@@ -1,0 +1,18 @@
+﻿{
+    "author": "urn:li:person:in_OrgId",
+    "commentary": "in_Text",
+    "visibility": "PUBLIC",
+    "distribution": {
+        "feedDistribution": "MAIN_FEED",
+        "targetEntities": [],
+        "thirdPartyDistributionChannels": []
+    },
+	 "content": {
+        "media": {
+            "altText": "testing for alt tags",
+            "id": "urn:li:image:in_MediaID"
+        }
+    },
+    "lifecycleState": "PUBLISHED",
+    "isReshareDisabledByAuthor": false
+}
